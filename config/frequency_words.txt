@@ -58,6 +58,7 @@ ai应用
 cpo
 
 算力
+数据中心
 大模型
 
 人工智能
@@ -69,6 +70,9 @@ cpo
 锂电
 固态电池
 钙钛矿
+
+自动驾驶
+智能驾驶
 
 商业航天
 卫星通信
@@ -85,8 +89,19 @@ DeepSeek
 
 华为
 鸿蒙
-HarmonyOS
-任正非
+鲲鹏
+昇腾
+
+壁仞
+沐曦
+摩尔线程
+地平线
+
+寒武纪
+思元
+
+紫光
+海光
 
 比亚迪
 王传福
@@ -103,23 +118,41 @@ DJI
 彭志辉
 
 字节
+豆包
 bytedance
 张一鸣
+
+阿里
+马云
+千问
+平头哥
 
 特斯拉
 马斯克
 
 微软
 Microsoft
+Maia
+
+亚马逊
+Amozon
+Graviton
+Trainium
 
 英伟达
 NVIDIA
 黄仁勋
 
 AMD
+Xilinx
+EPYC
+
+英特尔
+Intel
 
 谷歌
 google
+TPU
 gemini
 deepmind
 
